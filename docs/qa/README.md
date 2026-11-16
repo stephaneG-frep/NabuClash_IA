@@ -1,0 +1,1 @@
+Ces captures proviennent des tests widgets à 390 × 844 pixels logiques. Les réponses visibles sont des fixtures de transport HTTP réservées aux tests. Elles ne représentent pas des générations réelles. Le moteur de test ne possède pas les polices emoji Android : certains emoji y apparaissent comme un caractère manquant.
